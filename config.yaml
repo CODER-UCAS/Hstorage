@@ -1,0 +1,29 @@
+cookie:
+  expiry_days: 0
+  key: test_ke1y
+  name: test_n2ame
+credentials:
+  usernames:
+    '123456':
+      email: aaa707630816@163.com
+      name: '123456'
+      password: $2b$12$8uWFKOr4CY1NhxFc645UYuRAXUFfDjyP3Aq6yMSL60JJZVoc3tKXq
+    jiaxilyu:
+      email: aaa707630816@163.com
+      name: jesselyu
+      password: $2b$12$PW5egj/.E.n9Q1z/3oBC1.mKXi2NrGUr/YfUpJGg866tRBKrSrVLW
+    jsmith:
+      email: jsmith@gmail.com
+      name: John Smith
+      password: $2b$12$08m10rKdflIi9gIqi.A0MesSuXn1.AMGD3yhIa1LR82XrUFPKjwnC
+    rbriggs:
+      email: rbriggs@gmail.com
+      name: Rebecca Briggs
+      password: $2b$12$WLyQ.zQlAoZk1Gz75LG8xOkZldwl9itNeEtZJw71NZ8ZaR7guMyx2
+    wjl:
+      email: 839639868@qq.com
+      name: "\u738B\u91D1\u9F99"
+      password: $2b$12$VF/aFmNOR8SYE4oIciEn3.jnTPrLmZv4loVnGYhndnd3ADPmBn3sy
+preauthorized:
+  emails:
+  - melsby@gmail.com
