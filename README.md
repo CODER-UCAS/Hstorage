@@ -34,8 +34,8 @@ streamlit run .\UserInfo.py
 
 Feature|Status
 -----------|----------
-Heterogeneous data reading|❌
-Heterogeneous data parsing|❌
-Heterogeneous Data Storage|❌
-Heterogeneous Data Querying|❌
-Heterogeneous Data Modification|❌
+Heterogeneous data reading|✅
+Heterogeneous data parsing|✅
+Heterogeneous Data Storage|✅
+Heterogeneous Data Querying|✅
+Heterogeneous Data Modification|✅
